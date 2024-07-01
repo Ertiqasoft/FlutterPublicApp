@@ -1,0 +1,2 @@
+# FlutterPublicApp
+myapplications
